@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://soicecream.github.io</id>
+    <title>shuimujiabei</title>
+    <updated>2026-01-28T16:32:50.995Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://soicecream.github.io"/>
+    <link rel="self" href="https://soicecream.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://soicecream.github.io/images/avatar.png</logo>
+    <icon>https://soicecream.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2026, shuimujiabei</rights>
+    <entry>
+        <title type="html"><![CDATA[L1-112 现代战争 - java]]></title>
+        <id>https://soicecream.github.io/l1-112-xian-dai-zhan-zheng-java/</id>
+        <link href="https://soicecream.github.io/l1-112-xian-dai-zhan-zheng-java/">
+        </link>
+        <updated>2026-01-28T16:03:15.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L1-111 大幂数 - java]]></title>
+        <id>https://soicecream.github.io/l1-111-da-mi-shu-java/</id>
+        <link href="https://soicecream.github.io/l1-111-da-mi-shu-java/">
+        </link>
+        <updated>2026-01-28T16:01:04.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L1-110 这不是字符串题 - java]]></title>
+        <id>https://soicecream.github.io/l1-110-zhe-bu-shi-zi-fu-chuan-ti-java/</id>
+        <link href="https://soicecream.github.io/l1-110-zhe-bu-shi-zi-fu-chuan-ti-java/">
+        </link>
+        <updated>2026-01-28T15:47:54.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L1-109 这是字符串题 - java]]></title>
+        <id>https://soicecream.github.io/l1-109-zhe-shi-zi-fu-chuan-ti-java/</id>
+        <link href="https://soicecream.github.io/l1-109-zhe-shi-zi-fu-chuan-ti-java/">
+        </link>
+        <updated>2026-01-28T15:46:35.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L1-108 零头就抹了吧 - java]]></title>
+        <id>https://soicecream.github.io/l1-108-ling-tou-jiu-mo-liao-ba-java/</id>
+        <link href="https://soicecream.github.io/l1-108-ling-tou-jiu-mo-liao-ba-java/">
+        </link>
+        <updated>2026-01-28T15:46:12.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L1-107 高温补贴 - java]]></title>
+        <id>https://soicecream.github.io/l1-107-gao-wen-bu-tie-java/</id>
+        <link href="https://soicecream.github.io/l1-107-gao-wen-bu-tie-java/">
+        </link>
+        <updated>2026-01-28T15:44:27.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L1-106 偷感好重 - java]]></title>
+        <id>https://soicecream.github.io/l1-106-tou-gan-hao-chong-java/</id>
+        <link href="https://soicecream.github.io/l1-106-tou-gan-hao-chong-java/">
+        </link>
+        <updated>2026-01-28T15:43:29.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L1-105 珍惜生命 - java]]></title>
+        <id>https://soicecream.github.io/l1-105-zhen-xi-sheng-ming-java/</id>
+        <link href="https://soicecream.github.io/l1-105-zhen-xi-sheng-ming-java/">
+        </link>
+        <updated>2026-01-28T15:42:39.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L1-104 九宫格 - java]]></title>
+        <id>https://soicecream.github.io/l1-104-jiu-gong-ge-java/</id>
+        <link href="https://soicecream.github.io/l1-104-jiu-gong-ge-java/">
+        </link>
+        <updated>2026-01-28T15:41:55.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L1-103 整数的持续性 - java]]></title>
+        <id>https://soicecream.github.io/l1-103-zheng-shu-de-chi-xu-xing-java/</id>
+        <link href="https://soicecream.github.io/l1-103-zheng-shu-de-chi-xu-xing-java/">
+        </link>
+        <updated>2026-01-28T15:40:04.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L1-102 兰州牛肉面 - java]]></title>
+        <id>https://soicecream.github.io/l1-102-lan-zhou-niu-rou-mian-java/</id>
+        <link href="https://soicecream.github.io/l1-102-lan-zhou-niu-rou-mian-java/">
+        </link>
+        <updated>2026-01-28T15:38:32.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L1-101 别再来这么多猫娘了！ - java]]></title>
+        <id>https://soicecream.github.io/l1-101-bie-zai-lai-zhe-me-duo-mao-niang-liao-java/</id>
+        <link href="https://soicecream.github.io/l1-101-bie-zai-lai-zhe-me-duo-mao-niang-liao-java/">
+        </link>
+        <updated>2026-01-28T15:36:59.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L1-100 四项全能 - java]]></title>
+        <id>https://soicecream.github.io/l1-100-si-xiang-quan-neng-java/</id>
+        <link href="https://soicecream.github.io/l1-100-si-xiang-quan-neng-java/">
+        </link>
+        <updated>2026-01-28T15:35:14.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L1-099 帮助色盲 - java]]></title>
+        <id>https://soicecream.github.io/l1-099-bang-zhu-se-mang-java/</id>
+        <link href="https://soicecream.github.io/l1-099-bang-zhu-se-mang-java/">
+        </link>
+        <updated>2026-01-28T15:34:35.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L1-098 再进去几个人 - java]]></title>
+        <id>https://soicecream.github.io/l1-098-zai-jin-qu-ji-ge-ren-java/</id>
+        <link href="https://soicecream.github.io/l1-098-zai-jin-qu-ji-ge-ren-java/">
+        </link>
+        <updated>2026-01-28T15:28:10.000Z</updated>
+    </entry>
+</feed>
