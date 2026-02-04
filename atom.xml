@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://soicecream.github.io</id>
+    <title>shuimujiabei</title>
+    <updated>2026-02-04T11:39:26.135Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://soicecream.github.io"/>
+    <link rel="self" href="https://soicecream.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://soicecream.github.io/images/avatar.png</logo>
+    <icon>https://soicecream.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2026, shuimujiabei</rights>
+    <entry>
+        <title type="html"><![CDATA[L2-056 被n整除的n位数 - java]]></title>
+        <id>https://soicecream.github.io/l2-056-bei-n-zheng-chu-de-n-wei-shu-java/</id>
+        <link href="https://soicecream.github.io/l2-056-bei-n-zheng-chu-de-n-wei-shu-java/">
+        </link>
+        <updated>2026-02-04T09:15:24.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L2-055 胖达的山头 - java]]></title>
+        <id>https://soicecream.github.io/l2-055-pang-da-de-shan-tou-java/</id>
+        <link href="https://soicecream.github.io/l2-055-pang-da-de-shan-tou-java/">
+        </link>
+        <updated>2026-02-04T09:14:50.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L2-054 三点共线 - java]]></title>
+        <id>https://soicecream.github.io/l2-054-san-dian-gong-xian-java/</id>
+        <link href="https://soicecream.github.io/l2-054-san-dian-gong-xian-java/">
+        </link>
+        <updated>2026-02-04T09:14:12.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L2-053 算式拆解 - java]]></title>
+        <id>https://soicecream.github.io/l2-053-suan-shi-chai-jie-java/</id>
+        <link href="https://soicecream.github.io/l2-053-suan-shi-chai-jie-java/">
+        </link>
+        <updated>2026-02-04T09:13:35.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L2-052 吉利矩阵 - java]]></title>
+        <id>https://soicecream.github.io/l2-052-ji-li-ju-zhen-java/</id>
+        <link href="https://soicecream.github.io/l2-052-ji-li-ju-zhen-java/">
+        </link>
+        <updated>2026-02-04T09:12:47.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L2-051 满树的遍历 - java]]></title>
+        <id>https://soicecream.github.io/l2-051-man-shu-de-bian-li-java/</id>
+        <link href="https://soicecream.github.io/l2-051-man-shu-de-bian-li-java/">
+        </link>
+        <updated>2026-02-04T09:11:17.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L2-050 懂蛇语 - java]]></title>
+        <id>https://soicecream.github.io/l2-050-dong-she-yu-java/</id>
+        <link href="https://soicecream.github.io/l2-050-dong-she-yu-java/">
+        </link>
+        <updated>2026-02-04T09:10:26.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L2-049 鱼与熊掌 - java]]></title>
+        <id>https://soicecream.github.io/l2-049-yu-yu-xiong-zhang-java/</id>
+        <link href="https://soicecream.github.io/l2-049-yu-yu-xiong-zhang-java/">
+        </link>
+        <updated>2026-02-04T09:09:42.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L2-048 寻宝图 - java]]></title>
+        <id>https://soicecream.github.io/l2-048-xun-bao-tu-java/</id>
+        <link href="https://soicecream.github.io/l2-048-xun-bao-tu-java/">
+        </link>
+        <updated>2026-02-04T09:09:13.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L2-047 锦标赛 - java]]></title>
+        <id>https://soicecream.github.io/l2-047-jin-biao-sai-java/</id>
+        <link href="https://soicecream.github.io/l2-047-jin-biao-sai-java/">
+        </link>
+        <updated>2026-02-04T09:08:15.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L2-046 天梯赛的赛场安排 - java]]></title>
+        <id>https://soicecream.github.io/l2-046-tian-ti-sai-de-sai-chang-an-pai-java/</id>
+        <link href="https://soicecream.github.io/l2-046-tian-ti-sai-de-sai-chang-an-pai-java/">
+        </link>
+        <updated>2026-02-04T09:07:15.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L2-045 堆宝塔 - java]]></title>
+        <id>https://soicecream.github.io/l2-045-dui-bao-ta-java/</id>
+        <link href="https://soicecream.github.io/l2-045-dui-bao-ta-java/">
+        </link>
+        <updated>2026-02-04T09:05:45.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L2-044 大众情人 - java]]></title>
+        <id>https://soicecream.github.io/l2-044-da-zhong-qing-ren-java/</id>
+        <link href="https://soicecream.github.io/l2-044-da-zhong-qing-ren-java/">
+        </link>
+        <updated>2026-02-03T14:14:21.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L2-043 龙龙送外卖 - java]]></title>
+        <id>https://soicecream.github.io/l2-043-long-long-song-wai-mai-java/</id>
+        <link href="https://soicecream.github.io/l2-043-long-long-song-wai-mai-java/">
+        </link>
+        <updated>2026-02-03T13:47:38.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L2-042 老板的作息表 - java]]></title>
+        <id>https://soicecream.github.io/l2-042-lao-ban-de-zuo-xi-biao-java/</id>
+        <link href="https://soicecream.github.io/l2-042-lao-ban-de-zuo-xi-biao-java/">
+        </link>
+        <updated>2026-02-03T13:43:58.000Z</updated>
+    </entry>
+</feed>
